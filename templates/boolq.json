@@ -1,0 +1,7 @@
+{
+    "description": "prompt for boolQ dataset",
+    "prompt_input":  "{passage}\nQuestion: {question}?\nChoices: ['true', 'false']\nAnswer:",
+    "response_split": "",
+    "label_key": "labelKey",
+    "task_name": "boolq"
+}

@@ -1,0 +1,8 @@
+do_sample=True
+top_p=0.1
+top_k=8
+temperature=1
+renormalize_logits=True
+repetition_penalty=1.3
+min_new_tokens=64
+max_new_tokens=768

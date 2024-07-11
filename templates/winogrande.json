@@ -1,0 +1,7 @@
+{
+    "description": "prompt for WinoGrande dataset",
+    "prompt_input":  "Choose the most sensible text to replace the \"_\" in the following sentence: {sentence}\nChoices: ['{option1}', '{option2}']\nAnswer:",
+    "response_split": "",
+    "label_key": "answerKey",
+    "task_name": "winogrande"
+}

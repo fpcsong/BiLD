@@ -1,0 +1,7 @@
+{
+    "description": "A shorter template to experiment with.",
+    "prompt_input": "{instruction}{input}\n\n### Response:",
+    "prompt_no_input": "",
+    "response_split": "",
+    "label_key": "output"
+}

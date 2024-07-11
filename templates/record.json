@@ -1,0 +1,7 @@
+{
+    "description": "prompt for ReCoRD dataset",
+    "prompt_input":  "{passage}\n\nQuestion: {query} What is the \"@placeholder\"?\nAnswer:",
+    "response_split": "",
+    "label_key": "answer",
+    "task_name": "record"
+}

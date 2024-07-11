@@ -1,0 +1,7 @@
+do_sample=True
+top_p=0.85
+top_k=32
+temperature=0.8
+repetition_penalty=1.1
+min_new_tokens=128
+min_length=128

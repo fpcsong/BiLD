@@ -1,0 +1,13 @@
+accelerate==0.28.0
+deepspeed==0.13.3
+huggingface_hub==0.20.3
+jsonlines==4.0.0
+numpy==1.26.3
+optimum==1.18.0
+peft==0.10.0
+pytorch_ignite==0.5.0.post2
+sentencepiece==0.1.99
+torch==2.1.2
+tqdm==4.65.0
+transformers==4.39.2
+vllm==0.4.0

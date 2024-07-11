@@ -1,0 +1,15 @@
+__pycache__/
+temp/
+*.log
+distilresults/
+output.xlsx
+output.csv
+.ipynb_checkpoints/
+events.out.tfevents.*
+results/**/*runs*/
+results/**/*checkpoint*/
+en_results/**/*runs*/
+en_results/**/*checkpoint*/
+*.tar.gz
+test_example.py
+analyze_tools/*/

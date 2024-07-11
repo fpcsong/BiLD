@@ -1,0 +1,7 @@
+{
+    "description": "prompt for COPA dataset",
+    "prompt_input":  "Premise: {premise}\nQuestion: What could be the possible {question} of the premise?\nChoices: ['{choice1}', '{choice2}']\nYour answer:",
+    "response_split": "",
+    "label_key": "answer",
+    "task_name": "copa"
+}

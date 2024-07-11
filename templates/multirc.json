@@ -1,0 +1,7 @@
+{
+    "description": "prompt for MultiRC dataset",
+    "prompt_input":  "Passage: {text}\nQuestion: {question}\nChoices: {choices}\nNote: 1. there can be multiple correct answers. 2. each line contains one answer. 3. If no correct answer, reply 'none'.\nYour answer:",
+    "response_split": "",
+    "label_key": "answers",
+    "task_name": "multirc"
+}

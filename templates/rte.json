@@ -1,0 +1,7 @@
+{
+    "description": "prompt for RTE dataset",
+    "prompt_input":  "Premise: {premise}\nHypothesis: {hypothesis}\nQuestion: Determine whether the premise entails the hypothesis or not.\nChoices: ['entailment', 'not_entailment']\nAnswer:",
+    "response_split": "",
+    "label_key": "label",
+    "task_name": "rte"
+}

@@ -1,0 +1,7 @@
+{
+    "description": "prompt for HellaSwag dataset",
+    "prompt_input":  "Please choose the most appropriate text to complete the passage below:\nPassage: {passage}\nChoices: {endings}\nAnswer:",
+    "response_split": "",
+    "label_key": "answer",
+    "task_name": "hellaswag"
+}

@@ -1,0 +1,7 @@
+{
+    "description": "prompt for WiC dataset",
+    "prompt_input":  "Sentence1: {sentence1}\nSentence2: {sentence2}\nQuestion: Does '{word}' have the same meaning in both sentences?\nChoices: ['true', 'false']\nAnswer:",
+    "response_split": "",
+    "label_key": "labelKey",
+    "task_name": "wic"
+}

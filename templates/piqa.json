@@ -1,0 +1,7 @@
+{
+    "description": "prompt for PIQA dataset",
+    "prompt_input":  "Goal: {goal}\nChoose the most sensible solution to achieve the goal. Choices: ['{sol1}', '{sol2}']\nAnswer:",
+    "response_split": "",
+    "label_key": "answer",
+    "task_name": "piqa"
+}

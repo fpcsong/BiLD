@@ -1,0 +1,7 @@
+{
+    "description": "prompt for WSC dataset",
+    "prompt_input":  "{text}\nQuestion: In the above text, does '{span2_text}' refer to '{span1_text}'?\nChoices:['true', 'false']\nAnswer:",
+    "response_split": "",
+    "label_key": "labelKey",
+    "task_name": "wsc"
+}

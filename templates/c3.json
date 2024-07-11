@@ -1,0 +1,7 @@
+{
+    "description": "prompt for C3 dataset",
+    "prompt_input":  "{doc} 问题:{question} 选项:{choice} 答案:",
+    "response_split": "",
+    "label_key": "answer",
+    "task_name": "c3"
+}
