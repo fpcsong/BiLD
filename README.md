@@ -1,4 +1,4 @@
-# BiLD: Bi-directional Logits Difference Loss for Large Language Model Distillation[[paper](https://arxiv.org/pdf/2406.13555)]
+# [COLING2025] BiLD: Bi-directional Logits Difference Loss for Large Language Model Distillation[[paper](https://arxiv.org/pdf/2406.13555)]
 
 <div align="center">
 <img src="./figures/bild.jpg" width="100%" height="100%" alt="BiLD loss"/>
